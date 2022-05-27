@@ -1,5 +1,5 @@
 {
-  "name": "askoverflow",
+  "name": "askoverflow.js",
   "version": "0.0.1",
   "description": "Automatically lead you to Stackoverflow when you need it.",
   "main": "./dist/askoverflow.min.js",
