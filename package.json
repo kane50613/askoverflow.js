@@ -1,8 +1,8 @@
 {
   "name": "askoverflow",
   "version": "0.0.1",
-  "description": "",
-  "main": "dist/askoverflow.min.js",
+  "description": "Automatically lead you to Stackoverflow when you need it.",
+  "main": "./dist/askoverflow.min.js",
   "scripts": {
     "minify": "npx uglify-js ./src/askoverflow.js --compress --mangle --output dist/askoverflow.min.js"
   },
