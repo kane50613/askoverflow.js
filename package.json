@@ -1,0 +1,27 @@
+{
+  "name": "askoverflow",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/askoverflow.min.js",
+  "scripts": {
+    "minify": "npx uglify-js ./src/askoverflow.js --compress --mangle --output dist/askoverflow.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gary50613/askoverflow.js.git"
+  },
+  "keywords": ["stackoverflow"],
+  "author": {
+    "name": "Kane",
+    "email": "kane@yeecord.com",
+    "url": "https://yeecord.com/"
+  },
+  "files": [
+    "dist/**"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gary50613/askoverflow.js/issues"
+  },
+  "homepage": "https://github.com/Gary50613/askoverflow.js#readme"
+}
